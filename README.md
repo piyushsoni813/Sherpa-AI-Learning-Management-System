@@ -1,5 +1,4 @@
 # Sherpa-AI-Learning-Management-System
-# Django LMS (Learning Management System)
 
 Django LMS is a Learning Management System built with Django and Django REST Framework. It provides a platform for managing users, classes, assignments, questions, and more.
 
