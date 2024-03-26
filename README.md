@@ -59,4 +59,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 - This project was inspired by [Django](https://www.djangoproject.com/) and [Django REST Framework](https://www.django-rest-framework.org/).
-- Special thanks to all contributors and the open-source community.
